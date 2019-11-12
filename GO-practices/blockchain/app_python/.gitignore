@@ -1,0 +1,9 @@
+.DS_Store
+
+# ignore source file (contain sever and client)
+source_UIT_degree/
+myvenv
+**/__pycache__
+**/migrations
+db.sqlite3
+yarn.lock

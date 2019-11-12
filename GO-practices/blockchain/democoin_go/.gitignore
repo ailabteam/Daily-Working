@@ -1,0 +1,16 @@
+*.db
+*.dat
+
+*.json
+*.txt
+
+*.pyc
+
+node/node
+wallet/wallet
+
+node/data/
+node/data1/
+node/data2/
+node/data3/
+wallet/*/
