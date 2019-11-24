@@ -1,0 +1,14 @@
+update: 24/11/2019
+build api from train model of colab research
+https://medium.com/tensorflow/train-on-google-colab-and-run-on-the-browser-a-case-study-8a45f9b1474e
+https://colab.research.google.com/github/zaidalyafeai/zaidalyafeai.github.io/blob/master/sketcher/Sketcher.ipynb
+https://zaidalyafeai.github.io/sketcher/
+https://colab.research.google.com/github/tensorflow/serving/blob/master/tensorflow_serving/g3doc/tutorials/Serving_REST_simple.ipynb#scrollTo=E6FwTNtl3S4v
+https://www.kdnuggets.com/2019/01/build-api-machine-learning-model-using-flask.html
+
+Serving_REST_simple in collab research google
+
+text spam or ham python colab research
+https://colab.research.google.com/github/rugantio/MachineLearningCourse/blob/master/class17_Spam-Filter.ipynb
+https://www.kdnuggets.com/2018/03/simple-text-classifier-google-colaboratory.html
+https://towardsdatascience.com/spam-or-ham-introduction-to-natural-language-processing-part-2-a0093185aebd
